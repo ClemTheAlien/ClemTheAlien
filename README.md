@@ -5,7 +5,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
 
 </head>
-
+ <center>
 <h1 align = "center" style="font-family: Fira Code">Welcome to My Page</h1>
 
 <table>
@@ -29,8 +29,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ClemTheAlien&layout=compact&langs_count=8&card_width=320&theme=aura_dark" />
 </a>
 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ClemTheAlien&theme=aura_dark)
-
+</center>
 
 
 
