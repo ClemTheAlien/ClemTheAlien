@@ -18,20 +18,21 @@
 
   <th>
   <p style="font-family: Fira Code">Welcome to ClemTheAlien's Github! Enjoy your visit and consider looking at my stats and repos</p>
+    <img src = "https://github-vistors-counter.onrender.com/github?username=ClemTheAlien&style=aura_dark" alt = "Visitors-Counter"/>
   </th>
 </table>
-<table>
-<th>
+
+
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ClemTheAlien&theme=aura_dark&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
 </a>
-</th>
 
-<th>
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ClemTheAlien&layout=compact&langs_count=8&card_width=320&theme=aura_dark" />
 </a>
-</th>
-</table>
 
-</center>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ClemTheAlien&theme=aura_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClemTheAlien&theme=aura_dark)
+
+
+
