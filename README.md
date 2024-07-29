@@ -6,8 +6,6 @@
 
 </head>
 
-
-<center>
 <h1 align = "center" style="font-family: Fira Code">Welcome to My Page</h1>
 
 <table>
@@ -34,7 +32,7 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ClemTheAlien&theme=aura_dark)
 
 
-</center>
+
 
 
 
