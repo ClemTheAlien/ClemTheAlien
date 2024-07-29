@@ -32,7 +32,7 @@
 </a>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ClemTheAlien&theme=aura_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ClemTheAlien&theme=aura_dark)
+
 
 </center>
 
