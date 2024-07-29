@@ -19,19 +19,20 @@
   <th>
   <p style="font-family: Fira Code">Welcome to ClemTheAlien's Github! Enjoy your visit and consider looking at my stats and repos</p>
   </th>
-
-<tr>
+</table>
+<table>
+<th>
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ClemTheAlien&theme=aura_dark&show_icons=true&show=reviews,prs_merged,prs_merged_percentage" />
 </a>
-</tr>
+</th>
 
-<tr>
+<th>
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ClemTheAlien&layout=compact&langs_count=8&card_width=320&theme=aura_dark" />
 </a>
-</tr>
-
+</th>
 </table>
+
 </center>
 
