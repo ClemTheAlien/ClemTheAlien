@@ -10,7 +10,7 @@
 <center>
 <h1 align = "center" style="font-family: Fira Code">Welcome to My Page</h1>
 
-<table border = "0">
+<table style = "border:none;">
 
   <th width "250" height = "280">
     <img src="./assets/ena_welcome.gif" alt="Ena gif. Watch ENA on youtube:https://www.youtube.com/@JoelG">
@@ -22,7 +22,7 @@
 
 </table>
 
-<table>
+<table style = "border:none;">
 
   <th>
 <a href="#">
