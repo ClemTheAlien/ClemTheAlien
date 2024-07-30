@@ -1,1 +1,3 @@
-table {border: none;}
+table, tr, td{
+ border:none;
+}
