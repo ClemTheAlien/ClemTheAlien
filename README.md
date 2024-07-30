@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <html>
 <head>
+
+<style>
+ table {
+  border-collapse: collapse;
+  border: none;
+}
+</style>
+
 </head>
 <center>
  
