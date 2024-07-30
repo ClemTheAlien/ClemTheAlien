@@ -1,7 +1,6 @@
+<!DOCTYPE html>
+<html>
 <head>
-
-<link rel="stylesheet" href="styles.css">
-
 </head>
 <center>
  
@@ -36,3 +35,4 @@
 </table>
 
 </center>
+</html>
