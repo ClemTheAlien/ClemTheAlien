@@ -1,12 +1,11 @@
 <head>
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="styles.css">
 
 </head>
- <center>
-<h1 align = "center" style="font-family: Fira Code">Welcome to My Page</h1>
+<center>
+ 
+<h1 align = "center">Welcome to My Page</h1>
 
 <table>
 
@@ -15,7 +14,7 @@
   </th>
 
   <th>
-  <p style="font-family: Fira Code">Welcome to ClemTheAlien's Github! Enjoy your visit and consider looking at my stats and repos</p>
+  <p>Welcome to ClemTheAlien's Github! Enjoy your visit and consider looking at my stats and repos</p>
     <img src = "https://github-vistors-counter.onrender.com/github?username=ClemTheAlien&style=aura_dark" alt = "Visitors-Counter"/>
   </th>
 </table>
