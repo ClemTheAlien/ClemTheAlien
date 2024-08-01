@@ -18,7 +18,7 @@
   </th>
 </table>
 
-<table>
+<table align = "center">
  
  <th>
 <a href="#">
