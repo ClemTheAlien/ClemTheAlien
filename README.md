@@ -33,7 +33,7 @@
 </table>
 <h1 align = "center">Currently Learning...</h1>
 <ol>
-<li>Golang/li>
+<li>Golang</li>
 <li>C</li>
 <li>Basic Networking, System Management and DEVOPS</li>
 </ol>
