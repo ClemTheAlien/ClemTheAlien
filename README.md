@@ -15,6 +15,8 @@
   <th>
   <p>Welcome to ClemTheAlien's Github! Enjoy your visit and consider looking at my stats and repos</p>
   </th>
+
+  <th><p>Im Currently Learning: Golang and C while increasing my knowledge of Programming Theories such as Paradigms</p></th>
 </table>
 
 <table align = "center">
@@ -32,6 +34,13 @@
 </th>
 
 </table>
+<h1 align = "center">Skills:</h1>
+<ol>
+<li>GNU/Linux</li>
+<li>Basic programming in Python</li>
+<li>Basic Networking</li>
+</ol>
+
 
 </center>
 </html>
