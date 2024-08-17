@@ -33,9 +33,9 @@
 </table>
 <h1 align = "center">Currently Learning...</h1>
 <ol>
-<li>Golang</li>
-<li>C</li>
-<li>Basic Networking, System Management and DEVOPS</li>
+<li>C and C++</li>
+<li</li>
+<li>DEVOPS and Network</li>
 </ol>
 
 
