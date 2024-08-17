@@ -34,8 +34,7 @@
 <h1 align = "center">Currently Learning...</h1>
 <ol>
 <li>C and C++</li>
-<li</li>
-<li>DEVOPS and Network</li>
+<li>DEVOPS and Networking</li>
 </ol>
 
 
