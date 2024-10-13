@@ -34,7 +34,8 @@
 <h1 align = "center">Currently Learning...</h1>
 <ol>
 <li>C and C++</li>
-<li>DEVOPS and Networking</li>
+<li>DEVOPS (Azure Cloud Computing) and Networking (CCNA)</li>
+<li>Linux From Scratch</li>
 </ol>
 
 
