@@ -12,7 +12,6 @@
 Contact Me at 
 ClemTheAlien@proton.me</p>
 
-![TryToHackMe](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3751458)
 
 # Programming Languages 
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
