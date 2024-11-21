@@ -7,7 +7,7 @@
      </p>
 </div>
 
-Hello my name is ClemTheAlien. I am a junior in highschool interested in pursuing a career that involves the interdisciplinary skills of electrical engineering, low level machine programming and physics. I am currently my schools head of varasity for Linux and am on a journey to become a cybersecurity professional and aquire the CCNA, CompTIA A+, and Azure DevOP certificates. I have a passion for working with hardware, circuitry, and the C programming language. I also have a deep love for everything open-source and am an advocate for libre software and consumer rights when it comes to technology. I love linux and wish to contribute to the main kernel or any forks of the kernel in the future, in addition to managing and creating libre software.
+Hello my name is ClemTheAlien. I am a junior in highschool interested in pursuing a career that involves the interdisciplinary skills of electrical engineering, low level machine programming and physics. I am currently part of the nonprofit: All Things Linux,and am on a journey to become a cybersecurity professional and aquire the CCNA, CompTIA A+, and Azure DevOP certificates. I have a passion for working with hardware, circuitry, and the C programming language. I also have a deep love for everything open-source and am an advocate for libre software and consumer-rights when it comes to technology. I love linux and wish to contribute to the main kernel or any forks of the kernel in the future, in addition to managing and creating libre software.
 
 Stay tune for the release of my Citrus project
 
