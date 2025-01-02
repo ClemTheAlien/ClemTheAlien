@@ -7,15 +7,16 @@
      </p>
 </div>
 
-Hello my name is ClemTheAlien. I am a junior in highschool interested in pursuing a career that involves the interdisciplinary skills of electrical engineering, low level machine programming and physics. I am currently part of the nonprofit: All Things Linux,and am on a journey to become a cybersecurity professional and aquire the CCNA, CompTIA A+, and Azure DevOP certificates. I have a passion for working with hardware, circuitry, and the C programming language. I also have a deep love for everything open-source and am an advocate for libre software and consumer-rights when it comes to technology. I love linux and wish to contribute to the main kernel or any forks of the kernel in the future, in addition to managing and creating libre software.
+Hello my name is ClemTheAlien. I am a junior in highschool interested in pursuing a career that involves the interdisciplinary skills of electrical engineering, low level machine programming and physics. I am currently apart of the nonprofit community: All Things Linux,and am on a journey to become a cybersecurity professional who specializes in Linux Sys Admin and Linux Malware. I have a passion for working with hardware, circuitry, Linux, and the C programming language. I also have a deep love for everything open-source and am an advocate for libre software and consumer-rights when it comes to technology. I love linux and wish to contribute to the main kernel or any forks of the kernel in the future, in addition to managing and creating libre software.
 
 Stay tune for the release of my Citrus project
 
-Contact Me at 
-ClemTheAlien@proton.me
+My repos are held on Codeberg, and I use github as a "mirror" of sorts to make my code more accessible. :>
 
 And Look at My
+https://codeberg.org/ClemTheAlien
 https://tryhackme.com/r/p/ClemTheAlien
+
 
 # Programming Languages 
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -31,4 +32,5 @@ https://tryhackme.com/r/p/ClemTheAlien
 
 # Operating Systems
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
