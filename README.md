@@ -17,11 +17,12 @@ And Look at My
 - https://codeberg.org/ClemTheAlien
 - https://tryhackme.com/r/p/ClemTheAlien
 
-
 # Programming Languages 
  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+ ## Top Langauges 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClemTheAlien&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 # Tech Stack
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -32,5 +33,6 @@ And Look at My
 
 # Operating Systems
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
 
