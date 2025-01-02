@@ -14,8 +14,8 @@ Stay tune for the release of my Citrus project
 My repos are held on Codeberg, and I use github as a "mirror" of sorts to make my code more accessible. :>
 
 And Look at My
-https://codeberg.org/ClemTheAlien
-https://tryhackme.com/r/p/ClemTheAlien
+- https://codeberg.org/ClemTheAlien
+- https://tryhackme.com/r/p/ClemTheAlien
 
 
 # Programming Languages 
