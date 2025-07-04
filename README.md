@@ -3,7 +3,7 @@
      Welcome to My Page
     </h1>
      <p>
-    <img src="/assets/ena_welcome.gif" alt="Ena Welcomes You"/>
+    <img src="/assets/fallout-new-vegas.gif" alt="Courier 6"/>
      </p>
 </div>
 
