@@ -3,7 +3,7 @@
      Welcome to My Page
     </h1>
      <p>
-    <img src="/assets/fallout-new-vegas.gif" alt="Courier 6"/>
+    <img src="/assets/fallout-new-vegas.gif" alt="Courier 6" width = "300" height = "300"/>
      </p>
 </div>
 
