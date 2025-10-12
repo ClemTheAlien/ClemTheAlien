@@ -10,8 +10,7 @@
 I am a Senior in high school planning on going to college for Electrical Engineering and Physics (with a concentration in Nuclear and High Particle). Currently I am working for the All Things Linux Nonprofit (atl.com) and working on an OS.Stay tune for the release of my CitrOS project
 My repos are held on Codeberg (https://codeberg.org/ClemTheAlien), and I use github as a "mirror" of sorts to make my code more accessible. :>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ClemTheAlien&show_icons=true&theme=gruvbox)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClemTheAlien)](https://github.com/anuraghazra/github-readme-stats)
 ### I know...
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
