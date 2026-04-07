@@ -7,7 +7,6 @@
      </p>
 </div>
 
-I am a Senior in high school planning on going to college for Computer Engineering with a concentration of Cybersecurity Engineering and Physics with a concetration in Nuclear and High Energy.
 My repos are held on Codeberg (https://codeberg.org/ClemTheAlien), and I use github as a "mirror" of sorts to make my code more accessible. :>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClemTheAlien)](https://github.com/anuraghazra/github-readme-stats)
