@@ -9,12 +9,4 @@
 
 My repos are held on Codeberg (https://codeberg.org/ClemTheAlien), and I use github as a "mirror" of sorts to make my code more accessible. :>
 
-Welcome to my page! Hello I am ClemTheAlien a college student seeking a degree in Computer Engineering and minoring in Astrophysics. I am also the owner of Uranium Software group on both Github and Codeberg. Most of my code is in the Uranium Software group so check my account out and Uranium Software! 
- 
-### I know...
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Nix](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+Welcome to my page! Hello I am ClemTheAlien a college student seeking a degree in Electrical Engineering. I am also the owner of Uranium Software group on both Github and Codeberg. Most of my code is in the Uranium Software group so check my account out and Uranium Software!
