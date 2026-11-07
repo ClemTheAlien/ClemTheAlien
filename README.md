@@ -9,4 +9,4 @@
 
 My repos are held on Codeberg (https://codeberg.org/ClemTheAlien), and I use github as a "mirror" of sorts to make my code more accessible. :>
 
-Welcome to my page! Hello I am ClemTheAlien a college student seeking a degree in Electrical Engineering. I am also the owner of Uranium Software group on both Github and Codeberg. Most of my code is in the Uranium Software group so check my account out and Uranium Software!
+Welcome to my page! Hello I am ClemTheAlien a college student seeking a bachelors degree in Electrical Engineering who loves operating systems. Currently working on making a source-based Linux distrobution. 
